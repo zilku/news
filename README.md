@@ -94,4 +94,9 @@ Contributions are welcome! Feel free to submit pull requests or create issues fo
 
 ## License
 
-[MIT](./LICENSE) © ourongxing
+[MIT](./LICENSE) 
+
+# 🙏 感谢
+[ourongxing](https://github.com/ourongxing/newsnow/)
+
+
